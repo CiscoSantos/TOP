@@ -1,0 +1,1 @@
+# Projeto simples para fixar as lições de GIT e HTML até o momento. Pelo que entendi o projeto consiste na construção de um site com receitas, isso vai fazer uso das tags de negrito, enfase, lista ordenadas e desordenadas, links e imagens.
