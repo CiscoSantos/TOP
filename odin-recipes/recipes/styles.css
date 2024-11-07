@@ -1,0 +1,19 @@
+p {
+    max-width: 60ch;
+    text-align: justify;
+    align-items: center;
+}
+
+h1, h2, h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul,ol {
+    max-width: 60ch;
+    text-align: justify;
+
+}
+
+ol li {
+    margin-bottom: 10px;
+}
